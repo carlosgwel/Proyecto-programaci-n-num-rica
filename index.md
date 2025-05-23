@@ -14,13 +14,13 @@ Este repositorio contiene los programas en Python desarrollados durante el semes
 - [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/Cramer%20(1).py) 
 - **Jacobi, Gauss-Seidel.py**: Resuelve un sistema lineal de 3x3 usando los métodos iterativos de Jacobi y Gauss-Seidel con 3 iteraciones cada uno. Imprime los resultados por iteración.
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/Jacobi%2C%20Gauss-Seidel.py)
-- **Lu.py** : Implementa el análisis LU de una matriz 3x3 ( A1 = [[4, -2, 1], [-2, 4, -2], [1, -2, 4]] ) . Descompone la matriz en un triangular inferior ( L , con 1s en la diagonal) y un triangular superior ( U ) tal que A = LU . Imprime las matrices L y U .
+- **Lu.py** : Implementa el análisis LU de una matriz 3x3 . Descompone la matriz en un triangular inferior ( L , con 1s en la diagonal) y un triangular superior ( U ) tal que A = LU . Imprime las matrices L y U .
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/LU.py)
 - **Cholseky.py**: Realiza la revisión de Cholesky de una matriz 3x3 simétrica y  positiva de una matriz. Devuelve la matriz triangular inferior L tal que A = LL^T
   [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/cholseky.py)
 ### 3. Interpolación
 
-- **interpolacion cuadratica.py**: Implementa interpolación usando el método de diferencias divididas de Newton para los puntos (`x = [1, 2, 3, 5, 7]`, `y = [3, 6, 19, 99, 291]`). Evalúa en `x = 4` y grafica la curva con Matplotlib.  
+- **interpolacion cuadratica.py**: Implementa interpolación usando el método de diferencias divididas de Newton para los puntos (`x = [1, 2, 3, 5, 7]`, `y = [3, 6, 19, 99, 291]`). Evalúa en `x = 4` y grafica la curva .  
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/interpolacion%20cuadratica.py)
 - **interpolacion de newton.py**:interpolación cuadrática para los puntos ( x = [2, 3, 5] , y = [6, 19, 99] ), calcula el valor estimado de f(4) usando el método de diferencias divididas y gráfica los puntos
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/interpolacion%20de%20newton.py)
