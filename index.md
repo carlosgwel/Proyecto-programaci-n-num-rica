@@ -48,16 +48,16 @@ Este repositorio contiene los programas en Python desarrollados durante el semes
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/Diferenciacion%20numerica.py)
 ### 7. Generación de Vectores y Matrices
 
-- **ejercicio 1.py**: Intenta generar un vector aleatorio con un tamaño no entero `n = 3.5`, lo que causa un error. Incluye manejo de errores para entradas inválidas.
+- **ejercicio 1.py**: Genera un vector aleatorio entero.
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%201.py)
-- **ejercicio 2.py**: Genera un vector aleatorio de tamaño `n = 5` y crea una matriz `n x n` donde cada columna es el vector multiplicado por el índice de columna. Incluye manejo de errores.
+- **ejercicio 2.py**: Genera un vector aleatorio de tamaño n = 5 y crea una matriz n x n donde cada columna es el vector multiplicado por el índice de columna. 
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%202.py)
-- **ejercicio 3.py**: Solicita al usuario un entero positivo `n`, genera un vector aleatorio y crea una matriz `n x n` con columnas como múltiplos del vector. Incluye manejo de errores.
+- **ejercicio 3.py**: Solicita al usuario un entero positivo n, genera un vector aleatorio y crea una matriz n x n con columnas como múltiplos del vector. 
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%203.py)
-- **ejercicio 4.py**: Genera un vector aleatorio de tamaño `n = 5` y crea una matriz `n x n` donde cada fila es el vector multiplicado por el índice de fila. Incluye manejo de errores.
+- **ejercicio 4.py**: Genera un vector aleatorio de tamaño n = 5 y crea una matriz `n x n` donde cada fila es el vector multiplicado por el índice de fila.
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%204.py)
-- **ejercicio 5.py**: Genera un vector aleatorio de tamaño `n = 4` y crea dos matrices `n x n`: una con filas como múltiplos del vector y otra con columnas como múltiplos.
+- **ejercicio 5.py**: Genera un vector aleatorio de tamaño n = 4 y crea dos matrices n x n: una con filas como múltiplos del vector y otra con columnas como múltiplos.
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%205.py)
-- **ejercicio 6.py**: Grafica las funciones `sin(x)` y `cos(x)` en el intervalo `[-5, 5]` usando Matplotlib, con etiquetas, leyenda y cuadrícula.  
+- **ejercicio 6.py**: Grafica las funciones `sin(x)` y `cos(x)` en el intervalo [-5, 5] usando Matplotlib, con etiquetas, leyenda y cuadrícula.  
   [Imagen: Gráfico de sin(x) y cos(x)]
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%206.py)
