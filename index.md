@@ -58,6 +58,5 @@ Este repositorio contiene los programas en Python desarrollados durante el semes
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%204.py)
 - **ejercicio 5.py**: Genera un vector aleatorio de tamaño n = 4 y crea dos matrices n x n: una con filas como múltiplos del vector y otra con columnas como múltiplos.
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%205.py)
-- **ejercicio 6.py**: Grafica las funciones `sin(x)` y `cos(x)` en el intervalo [-5, 5] usando Matplotlib, con etiquetas, leyenda y cuadrícula.  
-  [Imagen: Gráfico de sin(x) y cos(x)]
+- **ejercicio 6.py**: Grafica las funciones `sin(x)` y `cos(x)` en el intervalo [-5, 5].
 [click aqui](https://github.com/carlosgwel/Proyecto-programaci-n-num-rica/blob/main/ejercicio%206.py)
